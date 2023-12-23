@@ -1,0 +1,19 @@
+{
+  "title": "Pleasure Up",
+  "description": "frost",
+  "artist": "Frost",
+  "author": "Frost",
+  "cover": "frost.com",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1703349308",
+      "groups": {
+        "": [
+          "https://imgur.com/a/qf40TEp"
+        ]
+      }
+    }
+  }
+}
